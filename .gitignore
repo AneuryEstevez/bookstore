@@ -1,0 +1,20 @@
+# Environment variables
+.env
+!/.env.example
+
+# Operating system files
+.DS_Store
+
+# IDE / Editor folders and files
+.idea/
+.vscode/
+
+# Gradle build output
+.gradle/
+**/build/
+**/bin/
+**/out/
+
+# Logs
+*.log
+logs/
